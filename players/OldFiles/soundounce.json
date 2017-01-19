@@ -1,0 +1,31 @@
+{
+  "nom": "Soundounce",
+  "signupDate": "2016-08-07T23:35:21.719Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Dueler",
+  "curWeap": "Katana",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 2,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 2,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 14,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

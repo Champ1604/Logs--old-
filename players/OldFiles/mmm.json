@@ -1,0 +1,31 @@
+{
+  "nom": "MMM",
+  "signupDate": "2016-08-02T14:31:58.395Z",
+  "curClass": "Skirmisher",
+  "curBranch": "Heavy",
+  "curWeap": "Hammer",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 3,
+    "skirmisher": 5,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 2,
+    "archer": 5,
+    "sorcerer": 3,
+    "fighter": 1
+  },
+  "xp": 12,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

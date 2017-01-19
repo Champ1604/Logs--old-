@@ -1,0 +1,31 @@
+{
+  "nom": "Former Hope",
+  "signupDate": "2016-08-02T14:28:36.437Z",
+  "curClass": "Guardian",
+  "curBranch": "Fighter",
+  "curWeap": "Tonfa",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 5,
+    "bard": 3
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 5
+  },
+  "xp": 1046,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

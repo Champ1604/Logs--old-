@@ -1,0 +1,31 @@
+{
+  "nom": "Fuzzytales",
+  "signupDate": "2016-08-04T16:16:02.772Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Dueler",
+  "curWeap": "Rapier",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 2,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 8,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

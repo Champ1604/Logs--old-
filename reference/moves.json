@@ -1,0 +1,2012 @@
+{
+  "format": {
+    "nom": "Name",
+    "Level": "Level X",
+    "Frequency": "Frequency",
+    "Accuracy": "Accuracy",
+    "Roll": "Roll",
+    "Type": "Damage Type/Action Type",
+    "Target": "Number of Targets/Applicable Targets/Range",
+    "Desc": "Description"
+  },
+  "basicattack": {
+    "nom": "Basic Attack",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "basicatk": {
+    "nom": "Basic Attack",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "batk": {
+    "nom": "Basic Attack",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "basicattackm": {
+    "nom": "Basic Attack (M)",
+    "Level": "Basic 1 (exclusive to Sorcerer + Clairvoyant)",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "basicm": {
+    "nom": "Basic Attack (M)",
+    "Level": "Basic 1 (exclusive to Sorcerer + Clairvoyant)",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "batkm": {
+    "nom": "Basic Attack (M)",
+    "Level": "Basic 1 (exclusive to Sorcerer + Clairvoyant)",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d10+2",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "A Basic attack. This attack can be used even when sealed."
+  },
+  "dash": {
+    "nom": "Dash",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "None/Full",
+    "Target": "-/Self/-",
+    "Desc": "When this move is used, you may move up to 1.5x your MP (rounded down), instead of 1x."
+  },
+  "backstep": {
+    "nom": "Back Step",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "None/Movement",
+    "Target": "-/Self/-",
+    "Desc": "The user moves 1 square in any cardinal direction without triggering \"Attacks of Opportunity\". Can only be used when adjacent to a foe."
+  },
+  "attackofopportunity": {
+    "nom": "Attack of Opportunity",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Reaction/Swift,Interrupt,Trigger",
+    "Target": "One/Foe/Melee",
+    "Desc": "During a foes turn, whenever one of the triggers is met, you may use a basic attack on the triggering foe -  1. When a foe leaves your melee range through a move action(So not from being pushed)  2. When a foe uses a ranged move that doesn't target you, when they are in melee range of you."
+  },
+  "aoo": {
+    "nom": "Attack of Opportunity",
+    "Level": "Basic 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Reaction/Interrupt",
+    "Target": "One/Foe/Melee",
+    "Desc": "During a foes turn, whenever one of the triggers is met, you may use a basic attack on the triggering foe -  1. When a foe leaves your melee range through a move action(So not from being pushed)  2. When a foe uses a ranged move that doesn't target you, when they are in melee range of you."
+  },
+  "frozenheart": {
+    "nom": "Frozen Heart",
+    "Level": "CryoKinetic 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "he player is immune to roots and slow effects, but not slow terrain."
+  },
+  "invokeice": {
+    "nom": "Invoke: Ice",
+    "Level": "CryoKinetic 2",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-/-",
+    "Type": "-/-/-",
+    "Target": "-",
+    "Desc": "If an opponent's accuracy roll is 16+, they lose one dice on their attack."
+  },
+  "freezingcry": {
+    "nom": "Freezing Cry",
+    "Level": "CryoKinetic 3",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Whenever the player takes damage from a ranged attack, the attacker loses 1 accuracy next turn."
+  },
+  "icewall": {
+    "nom": "Ice Wall",
+    "Level": "CryoKinesis 4",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Full",
+    "Target": "-/-/Range 3",
+    "Desc": "Create a linear Ice Wall with up to 3 segments (2 in NTR) or a diagonal wall up to 2 segments, each with 1HP. This wall is automatically destroyed 2 turns after its creation. The caster cannot create ANY of the blocks adjacent to them. They can't be touching the user when they're created."
+  },
+  "buildawall": {
+    "nom": "Ice Wall",
+    "Level": "CryoKinesis 4",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "None/Standard",
+    "Target": "-/-/Range 6",
+    "Desc": "Creates a linear Ice Wall with 4 segments, each with 50HP and 0 Evasion."
+  },
+  "icebomb": {
+    "nom": "Ice Bomb",
+    "Level": "CryoKinetic 5",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d10+2",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-3(Splash)",
+    "Desc": "Target is stunned for one turn. Additionally, every foe in Burst-1 range is slowed for one turn. This attack only benefits from half (rounded down) of the user's Magic Attack bonus."
+  },
+  "invokefire": {
+    "nom": "Invoke: Fire",
+    "Level": "PyroKinetic 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Whenever a 16 or higher is rolled on an accuracy check, add an additional damage dice to the damage roll."
+  },
+  "comet": {
+    "nom": "Comet",
+    "Level": "PyroKinetic 2",
+    "Frequency": "Twice",
+    "Accuracy": "2",
+    "Roll": "1d6+5",
+    "Type": "Magical/Movement",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "Do the following things in any order: deal Magic damage to all foes in melee range, move up to your full MP range. Damage of this move cannot be modifed by any outside factor (including Invoke: Fire). This attack does not gain Magic Attack Bonus."
+  },
+  "ignition": {
+    "nom": "Ignition",
+    "Level": "PyroKinetic 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Standard",
+    "Target": "-/Allies/Burst-1",
+    "Desc": "Until the end of the Player's next turn, All Allies within range, including the Player, deal an extra 5 burn damage on every successful attack. Does not stack."
+  },
+  "potentialenergy": {
+    "nom": "Potential Energy",
+    "Level": "PyroKinetic 4",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Whenever the player uses the same move (the move cannot be a Swift or Free action) in succession against another player, they gain a \"Fire Stack\". (Maximum of 3 accumulated at any time. May only gain 1 stack per turn.)"
+  },
+  "kineticenergy": {
+    "nom": "Kinetic Energy",
+    "Level": "PyroKinetic 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Free",
+    "Target": "-/Self/-",
+    "Desc": "The Player's next attack deals double damage (after damage reduction) and ignores the target's evasion. Requires spending 3 Fire Stacks."
+  },
+  "quickthinking": {
+    "nom": "Quick Thinking",
+    "Level": "Skirmisher 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "The Player may use their move action after their standard action. The Player may only use half of their MP, rounded down, when moving in this way."
+  },
+  "evade": {
+    "nom": "Evade",
+    "Level": "Skirmisher 2",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "The Player may move through enemy spaces as long as they do not end up in one. This does not apply to Back Steps."
+  },
+  "glide": {
+    "nom": "Glide",
+    "Level": "Skirmisher 3",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Dashing boosts The Player's MP by 2x instead 1.5x."
+  },
+  "outmaneuver": {
+    "nom": "Outmaneuver",
+    "Level": "Skirmisher 4",
+    "Frequency": "Twice",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "Add +2 accuracy to The Player's next attack's accuracy check (all accuracy checks, for multi-hit moves). May not use with Time's Edge."
+  },
+  "timesedge": {
+    "nom": "Time's Edge",
+    "Level": "Skirmisher 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Free",
+    "Target": "One/Self/-",
+    "Desc": "The player immediately acts again after their current turn ends. Any buffs remain during the second turn, but attack and magic will not be added to attacks. The following turn, The Player is unable to act."
+  },
+  "heartshield": {
+    "nom": "Heart Shield",
+    "Level": "Guardian 2",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "All/Self/Melee",
+    "Desc": "The user gains +1 Evasion until the end of their next turn if they got hit before the Guardian's turn."
+  },
+  "radiance": {
+    "nom": "Radiance",
+    "Level": "Guardian 3",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "All/Self/-",
+    "Desc": "Once the Guardian reaches half HP, they become immune to critical hits."
+  },
+  "defendersmark": {
+    "nom": "Defender's Mark",
+    "Level": "Guardian 4",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/Self/-",
+    "Desc": "Whenever The Player attacks a foe with a Single-Target attack, the target gains a Defender Mark (defmark)."
+  },
+  "protector": {
+    "nom": "Protector",
+    "Level": "Guardian 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Ally/Melee",
+    "Desc": "Target ally gains The Player's evasion in addition to their own, until The Player's next turn."
+  },
+  "oathofmercy": {
+    "nom": "Oath of Mercy",
+    "Level": "Guardian 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "The Player gains +10 damage resistance until the end of their next turn."
+  },
+  "motivation": {
+    "nom": "Motivation",
+    "Level": "Bard 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "All/Ally/Melee",
+    "Desc": "Any ally that starts their turn within Melee range of The Player gains +1 MP for the turn."
+  },
+  "risinghope": {
+    "nom": "Rising Hope",
+    "Level": "Bard 2",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "All/Ally/Melee",
+    "Desc": "All allies within melee range gain +1 accuracy, including The Player. (Does not stack with multiple bards)"
+  },
+  "harmony": {
+    "nom": "Harmony",
+    "Level": "Bard 3",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Ally or Self/Range-3",
+    "Desc": "Until the end of The Player's next turn, the target cannot be affected by any status or debuff (except for immobilization) and has any such effect cleansed."
+  },
+  "encore": {
+    "nom": "Encore",
+    "Level": "Bard 4",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "1d20",
+    "Type": "Buff/Standard(Free)",
+    "Target": "One/Ally/Range-3",
+    "Desc": "As a Free action, for the remainder of the battle, The Player may choose to give the roll to any ally (including themselves) within range as an accuracy check. Encore may not be used again until the generated roll has been used."
+  },
+  "crescendo": {
+    "nom": "Crescendo",
+    "Level": "Bard 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Full",
+    "Target": "All/Ally/Global",
+    "Desc": "All allies gain +10 to damage until the end of their turn. Additionally, The Party's critical range is increased by 2 until the end of The Bard's next turn. This move also affects the user."
+  },
+  "fallenblade": {
+    "nom": "Fallen Blade",
+    "Level": "Katana 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Trigger",
+    "Target": "One/Self/-",
+    "Desc": "All Katana moves may use magic instead of attack. While doing this, attacks gain 1 range and lose 1 accuracy."
+  },
+  "slice": {
+    "nom": "Slice",
+    "Level": "Katana 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This attack can be used even when The Player is sealed."
+  },
+  "kiblade": {
+    "nom": "Ki Blade",
+    "Level": "Katana 2",
+    "Frequency": "Every Other Turn",
+    "Accuracy": "0",
+    "Roll": "2d8+4",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "-"
+  },
+  "nidageki": {
+    "nom": "Ni Dageki",
+    "Level": "Katana 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee(2 hit)",
+    "Desc": "You may attack a single target in range twice or two different targets in range once. Only add your Attack Bonus on the first hit."
+  },
+  "seido": {
+    "nom": "Seido",
+    "Level": "Katana 5",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+14",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the end of the target's next turn, they cannot use attacks of opportunity."
+  },
+  "nihonto": {
+    "nom": "Nihonto",
+    "Level": "Katana 6",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+15",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "On an accuracy roll of 14+, the affected foe is sealed; On rolls of 18+, the affected foe is sealed and slowed. These effects last until the end of the affected's next turn."
+  },
+  "precision": {
+    "nom": "Precision",
+    "Level": "Rapier 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Trigger",
+    "Target": "One/Self/-",
+    "Desc": "The Player may choose to gain -5 damage to their next attack, if they do so, their next attack has +2 accuracy. This can be done up to twice a turn for a maximum of -10 damage and +4 accuracy."
+  },
+  "shadowspear": {
+    "nom": "Shadow Spear",
+    "Level": "Rapier 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+4",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Line 3",
+    "Desc": "On an accuracy roll of 15 or greater, all affected foes are sealed until the end of their next turn. This move ignores accuracy mods."
+  },
+  "lunge": {
+    "nom": "Lunge",
+    "Level": "Rapier 5",
+    "Frequency": "Twice/EoT",
+    "Accuracy": "5",
+    "Roll": "2d10+6",
+    "Type": "Magical/Standard",
+    "Target": "One(Range)/Foe/Melee(Burst-1)",
+    "Desc": "On an accuracy roll of 15 or greater, all foes within burst-1 range of the target (including the target) take an additional 2d10+6 (without modifiers) damage."
+  },
+  "riposte": {
+    "nom": "Riposte",
+    "Level": "Rapier 4",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "2d6+8",
+    "Type": "Physical/Free, Interrupt",
+    "Target": "One/Foe/Melee",
+    "Desc": "If a foe in melee range missed an attack on The Player during their last turn, The Player may use this move. This move does not benefit from The Player's ATK stat."
+  },
+  "thrust": {
+    "nom": "Thrust",
+    "Level": "Rapier 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+6",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-5",
+    "Desc": "Upon dealing damage to a foe, The Player may move to an available space next to the foe."
+  },
+  "phantomforce": {
+    "nom": "Phantom Force",
+    "Level": "Rapier 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "4d8+16",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If this attack hits, The Player gains +1 Physical & Magical Evasion for 1 turn."
+  },
+  "berserk": {
+    "nom": "Berserk",
+    "Level": "Gladius 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Free/Trigger",
+    "Target": "One/Self/-",
+    "Desc": "The Player may choose to gain +5 damage to their next attack, if they do so, their next attack has -2 accuracy. This can be done up to twice a turn for a maximum of +10 damage and -4 accuracy."
+  },
+  "heavystrike": {
+    "nom": "Heavy Strike",
+    "Level": "Gladius 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "4",
+    "Roll": "2d10+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This attack can be used even when sealed."
+  },
+  "swipe": {
+    "nom": "Swipe",
+    "Level": "Gladius 3",
+    "Frequency": "Every Turn",
+    "Accuracy": "5",
+    "Roll": "3d10+15",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If this attack hits, deal 15 damage to The Player."
+  },
+  "energyslash": {
+    "nom": "Energy Slash",
+    "Level": "Gladius 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d10+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-3",
+    "Desc": "Deal damage to the target equal to the roll."
+  },
+  "bonesword": {
+    "nom": "Bone Sword",
+    "Level": "Gladius 4",
+    "Frequency": "Twice",
+    "Accuracy": "3",
+    "Roll": "2d10+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This move has a critical range of 14 or greater."
+  },
+  "etruia": {
+    "nom": "Etruia",
+    "Level": "Gladius 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d10+12",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee(Push-2)",
+    "Desc": "Push the foe back 2 spaces. If the target is unable to be pushed the full distance due to terrain, an ally or a foe, they take +15 extra damage."
+  },
+  "impact": {
+    "nom": "Impact",
+    "Level": "Hammer 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "5",
+    "Roll": "3d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "-"
+  },
+  "galeforce": {
+    "nom": "Gale Force",
+    "Level": "Hammer 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target used the same attack as last turn, they take 1d8+5 extra damage."
+  },
+  "crush": {
+    "nom": "Crush",
+    "Level": "Hammer 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee(Push-3)",
+    "Desc": "Pushes target back 3 spaces and they take 1d8+10 extra damage if they are pushed back into any entity."
+  },
+  "terradrive": {
+    "nom": "Terra Drive",
+    "Level": "Hammer 4",
+    "Frequency": "Twice",
+    "Accuracy": "3",
+    "Roll": "3d8+6",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Line-4",
+    "Desc": "The target is slowed until the end of their turn.  (Their movement speed is reduced by half, rounded down)"
+  },
+  "thunderstrike": {
+    "nom": "Thunder Strike",
+    "Level": "Hammer 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d10+15",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Burst-1(Splash)",
+    "Desc": "Foes that are not in Burst-1 Range of the attacker, but are in Splash range of other Burst-1 targets, take an additional 15 damage."
+  },
+  "spinningstrike": {
+    "nom": "Spinning Strike",
+    "Level": "Axe 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+7",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "-"
+  },
+  "shellsplit": {
+    "nom": "Shell Split",
+    "Level": "Axe 2",
+    "Frequency": "Once",
+    "Accuracy": "2",
+    "Roll": "1d8+8",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foe/Burst-2",
+    "Desc": "Choose four tiles (two in NTR) within the attack's radius. Players cannot move over that tile but can shoot through it. This effect lasts until the Axe user decides to remove it (should they choose to). The terrain disappears after the setter dies or after 3 turns have passed."
+  },
+  "skullbash": {
+    "nom": "Skull Bash",
+    "Level": "Axe 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "5",
+    "Roll": "3d8+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee; Push-2",
+    "Desc": "Target is pushed back 2 spaces away."
+  },
+  "penetratingblow": {
+    "nom": "Penetrating Blow",
+    "Level": "Axe 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-4",
+    "Desc": "-"
+  },
+  "hurl123": {
+    "nom": "Penetrating Blow",
+    "Level": "Axe 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-4",
+    "Desc": "-"
+  },
+  "ampedstrike": {
+    "nom": "Amped Strike",
+    "Level": "Axe 7",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "3d8+15",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee(Splash)",
+    "Desc": "The melee target takes 15 additional damage from this attack. All targets in Splash range of the orignal target take normal damage."
+  },
+  "legsweep": {
+    "nom": "Leg Sweep",
+    "Level": "Polearm 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "4",
+    "Roll": "2d10+6",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "On accuracy rolls of 19 or greater, the foe is stunned until the end of their next turn."
+  },
+  "powerswing": {
+    "nom": "Power Swing",
+    "Level": "Polearm 2",
+    "Frequency": "Every Turn",
+    "Accuracy": "5",
+    "Roll": "3d10+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "-"
+  },
+  "snap": {
+    "nom": "Snap",
+    "Level": "Polearm 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "5",
+    "Roll": "2d10+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target end's their next turn adjacent to The Player, they take an additional 1d10+2+attack damage on the beginning of the player's next turn."
+  },
+  "taunt": {
+    "nom": "Taunt",
+    "Level": "Polearm 4",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "One/Foe/Range-5",
+    "Desc": "The target must move as far towards the player as possible on their next turn, otherwise they take 3d10+20 damage."
+  },
+  "impulseskewer": {
+    "nom": "Impulse Skewer",
+    "Level": "Polearm 7",
+    "Frequency": "Once",
+    "Accuracy": "6",
+    "Roll": "3d10+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee(Hit-2)",
+    "Desc": "Roll accuracy both times. Apply your attack bonus to the first hit only."
+  },
+  "marksman": {
+    "nom": "Marksman",
+    "Level": "Longbow 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Longbow skills can't target foes 2 spaces away or closer (except for Arrow Assault). Additionally, gain +1 accuracy if at 8 range. This passive is disabled in NTR."
+  },
+  "sharpshooterq": {
+    "nom": "Marksman",
+    "Level": "Longbow 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "Longbow skills can't target foes 2 spaces away or closer (except for Arrow Assault). Additionally, gain 1d10 damage if at 8 range. This passive is disabled in NTR."
+  },
+  "crimsoncollage": {
+    "nom": "Crimson Collage",
+    "Level": "Longbow 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d10+3",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-8",
+    "Desc": "This attack critical hits on 17+."
+  },
+  "rainoffire": {
+    "nom": "Rain of Fire",
+    "Level": "Longbow 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d10+4",
+    "Type": "Physical/Standard",
+    "Target": "-/All/Range-8",
+    "Desc": "Choose a 2x2 space on the map up to your range away (so that at least one square is in your range). All foes in that space are attacked by this move. This attack only uses 50% of the Player's ATK."
+  },
+  "arrowassault": {
+    "nom": "Arrow Assault",
+    "Level": "Longbow 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "1d10+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-2; Push-3",
+    "Desc": "Pushes the opponent back 3 spaces."
+  },
+  "cripplingshot": {
+    "nom": "Crippling Shot",
+    "Level": "Longbow 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "1d10+6",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-8",
+    "Desc": "The target is slowed until the end of their next turn on rolls of 12+. Upon rolls of 18+, the foe is rooted next turn."
+  },
+  "snipe": {
+    "nom": "Snipe",
+    "Level": "Longbow 7",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "6d8+15",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Setup; Range-8",
+    "Desc": "Choose a target within your range and then end your turn. Next turn, this attack hits your target no matter where they are."
+  },
+  "doubleshot": {
+    "nom": "Double Shot",
+    "Level": "Shortbow 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+3",
+    "Type": "Physical/Standard",
+    "Target": "One or Two (2 hits)/Foe/Range-4",
+    "Desc": "You may attack a single target in range twice, or may attack two different targets in range once. Apply your bonus attack damage on the first hit only."
+  },
+  "windmill": {
+    "nom": "Windmill",
+    "Level": "Shortbow 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+6",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "Upon 15+. The foe is sealed until the end of their next turn."
+  },
+  "kipup": {
+    "nom": "Kip up",
+    "Level": "Shortbow 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+14",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-2; Push-3",
+    "Desc": "The target is pushed back 3 spaces away. Until the end of your next turn, you gain an additional 2 accuracy for all ranged physical attacks on the target."
+  },
+  "eagleeye": {
+    "nom": "Eagle Eye",
+    "Level": "Shortbow 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Swift",
+    "Target": "-/Self/-",
+    "Desc": "Until The Player takes damage: The Player loses 1 evasion and all their attacks will critical hit upon rolls of 18+."
+  },
+  "stringshot": {
+    "nom": "String Shot",
+    "Level": "Shortbow 6",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+16",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe or Ally/Range-4",
+    "Desc": "Target is pulled back 3 spaces towards the Shortbow. If used on an ally, this move does not do damage."
+  },
+  "explosiveshot": {
+    "nom": "Explosive Shot",
+    "Level": "Crossbow 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-6(Splash)",
+    "Desc": "Upon this move hitting, deal damage to all foes within your target's Splash range."
+  },
+  "icearrow": {
+    "nom": "Ice Arrow",
+    "Level": "Crossbow 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "1d8+2",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-6; Hit-2",
+    "Desc": "Roll to hit the foe twice. For each hit, upon 19+, the foe is stunned until the end of their turn. Only apply attack bonus to the first hit."
+  },
+  "pierce": {
+    "nom": "Pierce",
+    "Level": "Crossbow 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "6",
+    "Roll": "2d8+10",
+    "Type": "Physical/Standard",
+    "Target": "Range/All/Line-6",
+    "Desc": "Ignores target's evasion and any outside factors to damage originating from the enemy (Including accuracy reduction)."
+  },
+  "rupture": {
+    "nom": "Rupture",
+    "Level": "Crossbow 6",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "3d8+12",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-6",
+    "Desc": "-"
+  },
+  "ballista": {
+    "nom": "Ballista",
+    "Level": "Crossbow 7",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "3d8+25",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-6",
+    "Desc": "The Crossbow is pushed back 2 spaces from the target and next turn is unable to act regardless if this skill hits or not."
+  },
+  "fireball": {
+    "nom": "Fireball",
+    "Level": "Spellbook 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "2d8+8",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Line-4",
+    "Desc": "-"
+  },
+  "seal": {
+    "nom": "Seal",
+    "Level": "Spellbook 2",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d8+6",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "On an accuracy roll of 10+, the foe is Sealed until the end of their next turn."
+  },
+  "lightning": {
+    "nom": "Lightning",
+    "Level": "Spellbook 2",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "1d10+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Global",
+    "Desc": "Choose one foe anywhere on the map to deal damage too."
+  },
+  "disable": {
+    "nom": "Disable",
+    "Level": "Spellbook 3",
+    "Frequency": "Once",
+    "Accuracy": "0",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "One/Foe/Range-2",
+    "Desc": "The target can't use the move they used last turn for the rest of the game. As a standard action, the target may pay 25% of their maximum health to remove this. Doing so will trigger any nearby Attack of Opportunities."
+  },
+  "thismoveisgone": {
+    "nom": "Wall of Air",
+    "Level": "Spellbook 3",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "-/-/-",
+    "Desc": "Build a straight 5x1 wall or a ringed wall in Burst-1 of yourself. Ranged attacks that pass through the wall get -2 accuracy and deal 50% damage rounded down. The wall itself is a slow terrain. This wall lasts 5 turns or until the spellbook dies. You can only have one active Wall of Air."
+  },
+  "buildanotherwall": {
+    "nom": "Wall of Air",
+    "Level": "Spellbook 3",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "-/-/-",
+    "Desc": "Build a straight 5x1 wall or a 3 diameter ringed wall around yourself. Ranged attacks that pass through the wall get -2 accuracy and deal 50% damage rounded down. The wall itself is a slow terrain. This wall lasts 5 turns or until the spellbook dies. You can only have one active Wall of Air."
+  },
+  "fog": {
+    "nom": "Fog",
+    "Level": "Spellbook 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "Three/Foe/Range-8",
+    "Desc": "Choose up to 3 foes, they lose half their range (rounded down) for all their ranged attacks until the end of their next turn."
+  },
+  "allyswitch": {
+    "nom": "Ally Switch",
+    "Level": "Spellbook 4",
+    "Frequency": "Twice",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Move",
+    "Target": "One/Ally/Global",
+    "Desc": "Choose an ally, that ally and The Player switch places on the map. The ally chosen gains +1 movement and is cured of all slows until the end of their next turn. If you have no living team mates, it can be used on any consenting player."
+  },
+  "bountyofdeath": {
+    "nom": "Bounty of Death",
+    "Level": "Spellbook 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d10+15",
+    "Type": "Magical/Setup; Full",
+    "Target": "Three/Foes/Global",
+    "Desc": "When Spellbook uses this skill, their turn ends. Next turn using a full action, they deal this damage up to three foes. If the foe is below half health, this attack deals  an extra 15 damage. This skill can only be used once per game per side."
+  },
+  "bod": {
+    "nom": "Bounty of Death",
+    "Level": "Spellbook 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d10+15",
+    "Type": "Magical/Setup; Full",
+    "Target": "Three/Foes/Global",
+    "Desc": "When Spellbook uses this skill, their turn ends. Next turn using a full action, they deal this damage up to three foes. If the foe is below half health, this attack deals  an extra 15 damage. This skill can only be used once per game per side."
+  },
+  "magicshot": {
+    "nom": "Magic Shot",
+    "Level": "Wand 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "3d8+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Line-4",
+    "Desc": "-"
+  },
+  "lifedrain": {
+    "nom": "Life Drain",
+    "Level": "Wand 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+4",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-2",
+    "Desc": "Heal HP equal to the amount of damage done by this. This move only benefits from half of the user's Magic attack bonus."
+  },
+  "energize": {
+    "nom": "Energize",
+    "Level": "Wand 3",
+    "Frequency": "Every Turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Free",
+    "Target": "-/Self/-",
+    "Desc": "You may sacrifice 15 HP to gain +1 MP and +2 dice to your attacks and -1 accuracy until the end of this turn."
+  },
+  "illusion": {
+    "nom": "Illusion",
+    "Level": "Wand 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+9",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Line-2",
+    "Desc": "If the attack lands, the target suffers a -2 penalty of their next accuracy check."
+  },
+  "blizzard": {
+    "nom": "Blizzard",
+    "Level": "Wand 6",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "4",
+    "Roll": "3d8+15",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Cone-2",
+    "Desc": "Upon 19+, all foes hit are rooted until the end of their next turn."
+  },
+  "earthbind": {
+    "nom": "Earth Bind",
+    "Level": "Stave 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the end of the targets next turn, they cannot use their backstep ability"
+  },
+  "stormsmash": {
+    "nom": "Storm Smash",
+    "Level": "Stave 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d8+8",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Burst-2",
+    "Desc": "Until the end of your next turn. All foes hit by this attack lose -1 accuarcy."
+  },
+  "phantasmalstrike": {
+    "nom": "Phantasmal Strike",
+    "Level": "Stave 3",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+12",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "You may add your Magic or your Attack as bonus and may target which ever evasion stat you wish."
+  },
+  "temporalrupture": {
+    "nom": "Temporal Rupture",
+    "Level": "Stave 4",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "-",
+    "Type": "Status/Full",
+    "Target": "Two/Foe and Ally/Melee",
+    "Desc": "Choose up to two targets adjacant to you (you may including yourself). They are stunned and immune to all damage until the end of their turn."
+  },
+  "tidalshatter": {
+    "nom": "Tidal Shatter",
+    "Level": "Stave 6",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "1d8+2",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe and Ally/Line-4",
+    "Desc": "All targets in your range that are hit by this attack are stunned until the end of their turn."
+  },
+  "disarm": {
+    "nom": "Disarm",
+    "Level": "Tonfa 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d8+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the end of their next turn, the target does -5 damage."
+  },
+  "figure8": {
+    "nom": "Figure 8",
+    "Level": "Tonfa 3",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d10+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "You may use Figure 8 instead of your basic attack for AoO's. Figure 8 may be announced as dealing magical damage instead of physical damage when the Tonfa declares this attack. This attack can be used when sealed."
+  },
+  "dazingshot": {
+    "nom": "Dazing Shot",
+    "Level": "Tonfa 2",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d6+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-4",
+    "Desc": "The targets next attack has no extra effect."
+  },
+  "defensivestance": {
+    "nom": "Defensive Stance",
+    "Level": "Tonfa 4",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Free",
+    "Target": "-/Self/-",
+    "Desc": "Until the end of your next turn you gain +3 physical and magical evasion. Next turn, your attacks do -10 damage."
+  },
+  "leash": {
+    "nom": "Leash",
+    "Level": "Tonfa 5",
+    "Frequency": "Twice/EoT",
+    "Accuracy": "4",
+    "Roll": "3d8+10",
+    "Type": "Physical|Magical/Standard",
+    "Target": "One/Foe/Melee; Range-3",
+    "Desc": "This can be used as a physical melee or ranged magical attack. Ranged: If this attack hits you may teleport to an unoccupied space adjacent to the target. Next turn the target takes 10 damage if they don't try to attack you. Physical: Do 5 more damage, the foe is rooted for one turn."
+  },
+  "baghnaka": {
+    "nom": "Bagh Naka",
+    "Level": "Claws 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "3d8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Damage from this move can't be affected by any outside factor."
+  },
+  "furycutter": {
+    "nom": "Fury Cutter",
+    "Level": "Claws 2",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d6+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Roll 2 additional Dice if you used this attack last turn and hit. This attack can only get to a maximum of 4D6+8 by this effect"
+  },
+  "gouge": {
+    "nom": "Gouge",
+    "Level": "Claws 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+3",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "The foe takes 10 bleed damage until the end of your next turn."
+  },
+  "eviserate": {
+    "nom": "Eviserate",
+    "Level": "Claws 5",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target is bleeding, their bleed lasts an additional turn."
+  },
+  "puncture": {
+    "nom": "Puncture",
+    "Level": "Claws 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d8+14",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target is bleeding, this attack does a bonus 10 damage."
+  },
+  "tornado": {
+    "nom": "Tornado",
+    "Level": "Bo Staff 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+8",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "On rolls of 16+, the target is confused for two turns."
+  },
+  "spar": {
+    "nom": "Spar",
+    "Level": "Bo Staff 2",
+    "Frequency": "Every Turn",
+    "Accuracy": "4",
+    "Roll": "-",
+    "Type": "Physical/Swift",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the beginning of The Player's next turn, the target is affected by the \"Challenged\" status."
+  },
+  "predict": {
+    "nom": "Predict",
+    "Level": "Bo Staff 3",
+    "Frequency": "Every Other Turn",
+    "Accuracy": "0",
+    "Roll": "2d8+10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "-"
+  },
+  "reach": {
+    "nom": "Reach",
+    "Level": "Bo Staff 4",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "2d8+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the end of your next turn The Player's melee range is increased by one."
+  },
+  "chargedblow": {
+    "nom": "Charged Blow",
+    "Level": "Bo Staff 5",
+    "Frequency": "Twice",
+    "Accuracy": "5",
+    "Roll": "2d8+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Can be used as a standard action with 19+ critical hit rate or as a set up action and does nothing on the first turn. On the second turn The Player's melee range is increased by 1 until the end of the turn, Charged Blow cannot miss, deals an additional 10 damage, and automatically crits."
+  },
+  "echoburst": {
+    "nom": "Echo Burst",
+    "Level": "Orb 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+7",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-5",
+    "Desc": "This attack hits on the start of the user's next turn, regardless of where the target is. If the user is dead by the start of their next turn, the damage is still dealt."
+  },
+  "spiritshackle": {
+    "nom": "Spirit Shackle",
+    "Level": "Orb 2",
+    "Frequency": "Twice/Every Other Turn",
+    "Accuracy": "4",
+    "Roll": "1d8+0",
+    "Type": "Magical/Full",
+    "Target": "Three/Foe/Global",
+    "Desc": "On 14+, this attack slows all targets hit. This attack only benefits from half rounded down of the user's Magic Attack bonus."
+  },
+  "cementmixer": {
+    "nom": "Spirit Shackle",
+    "Level": "Orb 2",
+    "Frequency": "Twice/Every Other Turn",
+    "Accuracy": "4",
+    "Roll": "1d8+0",
+    "Type": "Magical/Full",
+    "Target": "All/Foe/Global",
+    "Desc": "On 14+, this attack slows all targets hit. This attack only benefits from half rounded down of the user's Magic Attack bonus."
+  },
+  "ominouswind": {
+    "nom": "Ominous Wind",
+    "Level": "Orb 3",
+    "Frequency": "Every Other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+1",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Line-4",
+    "Desc": "This attack deals damage to all foes in range. The user gains +5 damage on their next attack."
+  },
+  "futuresight": {
+    "nom": "Future Sight",
+    "Level": "Orb 4",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "1d8+8",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Global",
+    "Desc": "The attack hits on the start of the user's next turn on the turn two turns after the move was used.  If the user is dead or stunned by the start of their turn Future Sight should hit, the damage is still dealt."
+  },
+  "doomdesire": {
+    "nom": "Doom Desire",
+    "Level": "Orb 7",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "3d8+25",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-7",
+    "Desc": "Regardless of whether this attack hits, the user is unable to act until the end of their next turn. This attack hits on the user's next turn (the turn where they are unable to act).  If the user is dead or stunned by the start of their turn Future Sight should hit, the damage is still dealt"
+  },
+  "manastorm": {
+    "nom": "Doom Desire",
+    "Level": "Orb 7",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "3d8+25",
+    "Type": "Magical/Full",
+    "Target": "One/Foe/Range-7",
+    "Desc": "Regardless of whether this attack hits, the user is unable to act until the end of their next turn. This attack hits on the user's next turn (the turn where they are unable to act).  If the user is dead or stunned by the start of their turn Future Sight should hit, the damage is still dealt"
+  },
+  "discard": {
+    "nom": "Discard",
+    "Level": "Tarot Cards 1",
+    "Frequency": "OaT",
+    "Accuracy": "2",
+    "Roll": "2d8+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-4",
+    "Desc": "On 15+, gain -2 accuracy as a stored effect (the player is not affected by this). As a free action on any turn, you may give this effect to another player."
+  },
+  "cardflip": {
+    "nom": "Card Flip",
+    "Level": "Tarot Cards 2",
+    "Frequency": "OaT",
+    "Accuracy": "3",
+    "Roll": "2d8+2",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Line-3",
+    "Desc": "The user may choose to take a d2 roll before this move is rolled. If the d2 rolls a 1, the user deals half damage on their attack. If the roll is 2, they deal 1.5x damage on their attack."
+  },
+  "hilo": {
+    "nom": "Hi-Lo",
+    "Level": "Tarot Cards 3",
+    "Frequency": "Twice/Every Other Turn",
+    "Accuracy": "4",
+    "Roll": "Xd10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Roll a 1d10. The user has to predict whether the next 1d10 result will be higher or lower than the 1d10. Repeat until the user mispredicts or the user guessed correctly 7 times. The roll is Xd10 where X=amount of correct guesses. Add the MAG onto the roll. The intial 1d10 does not count."
+  },
+  "royalflush": {
+    "nom": "Royal Flush",
+    "Level": "Tarot Cards 4",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "8d8+0",
+    "Type": "Magical/Full",
+    "Target": "One/Foe/Line-3",
+    "Desc": "This move does not benefit from the user's Magic attack bonus."
+  },
+  "stackeddeck": {
+    "nom": "Stacked Deck",
+    "Level": "Tarot Cards 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "6d8+0",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Roll 1d10. 1=User is stunned, 2=Opponent is healed, 3=Miss, 4=0.5x damage, 5=The user takes recoil equal to half the damage dealt, 6=Opponent burns for 5 damage/1 turn, 7=Opponent is sealed 1 turn, 8=Damage is 1.5x roll, 9=Opponent is stunned 1 turn, 10=This attack has thrice the dice"
+  },
+  "dispel": {
+    "nom": "Dispel",
+    "Level": "Star Rod 1",
+    "Frequency": "Every Turn",
+    "Accuracy": "2",
+    "Roll": "1d8+10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-3",
+    "Desc": "The target deals -5 damage until the end of their next turn."
+  },
+  "starstorm": {
+    "nom": "Star Storm",
+    "Level": "Star Rod 2",
+    "Frequency": "Every Other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+12",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Line-4",
+    "Desc": "-"
+  },
+  "wardingblow": {
+    "nom": "Warding Blow",
+    "Level": "Star Rod 3",
+    "Frequency": "Twice/Every Other Turn",
+    "Accuracy": "4",
+    "Roll": "2d6+10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range 4",
+    "Desc": "The user gains 5 Damage Resistance until the end of their next turn."
+  },
+  "asteroidbelt": {
+    "nom": "Asteroid Belt",
+    "Level": "Star Rod 4",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "Range/Foe/Burst-3",
+    "Desc": "All targets in range must attack the user next turn. If they stay in Burst 3 range of the user on their next turn, they take 3d8+3+User's MAG damage."
+  },
+  "gravity": {
+    "nom": "Gravity",
+    "Level": "Star Rod 4",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d4",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Global",
+    "Desc": "All targets' attacks have melee range until the end of the user's next turn. This attack only benefits from half of the user's Magic Attack bonus."
+  },
+  "astralcloak": {
+    "nom": "Astral Cloak",
+    "Level": "Star Rod 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Swift",
+    "Target": "One/Self/-",
+    "Desc": "The next time the user takes damage, they gain damage resistance equal to half the damage taken until the end of their next turn. The user does 5 less damage while under the effect of this move."
+  },
+  "nolongerexists": {
+    "nom": "Ice Valk",
+    "Level": "CryoKinesis 7",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "3d8+23",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Range-5",
+    "Desc": "If the user breaks their Ice Wall using this move, all foes within a Burst 1 radius of the Ice Wall takes 3d8+23 damage (do not add MAG)."
+  },
+  "inferno": {
+    "nom": "Inferno",
+    "Level": "PyroKinetic 6",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d8+5",
+    "Type": "Magical/Swift",
+    "Target": "Range/Foe/Line-3",
+    "Desc": "This move deals X*5 burn damage to the targets for 1 turn where X is the number of Fire Stacks the user has. The user then loses all Fire Stacks. This move requires at least one Fire Stack to use and doesn't benefit from the user's Magic."
+  },
+  "stealth": {
+    "nom": "Stealth",
+    "Level": "Skirmisher 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Free",
+    "Target": "-/-/-",
+    "Desc": "Backstep becomes a free action for one turn. While under this effect, the user has -2 MP."
+  },
+  "rampart": {
+    "nom": "Rampart",
+    "Level": "Guardian 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Free",
+    "Target": "-/-/-",
+    "Desc": "Gain +1 Evasion until the end of the Guardian's next turn."
+  },
+  "primadonna": {
+    "nom": "Primadonna",
+    "Level": "Bard 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One or Two/Self or Ally/Global",
+    "Desc": "Reduce the user's evasion to 0/0. The user then may choose to boost their ATK or MAG by 3. If in a team battle, 1 ally may also get the desired boost. The affected may choose to revert this effect any time after one turn has passed."
+  },
+  "giantslayer": {
+    "nom": "Giant Slayer",
+    "Level": "Katana 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d8+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This attack deals +30 damage when the target has 45 or more current HP than the user."
+  },
+  "imnotdoneyet": {
+    "nom": "Giant Slayer",
+    "Level": "Katana 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d8+9",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target has 1.5x the HP or more the user has, this attack deals double damage."
+  },
+  "shadowdance": {
+    "nom": "Shadow Dance",
+    "Level": "Rapier 6",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+10",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foe/Cone-1",
+    "Desc": "This attack pushes the user 4 spaces backwards."
+  },
+  "adrenaline": {
+    "nom": "Adrenaline",
+    "Level": "Gladius 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "-/-/-",
+    "Desc": "The Gladius gains +10 damage to their next attack. If they miss, they take 15 HP recoil."
+  },
+  "headstack": {
+    "nom": "Head Stack",
+    "Level": "Polearm 5",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "5",
+    "Roll": "Xd10+8",
+    "Type": "Physical/Standard",
+    "Target": "-/All/Line-3",
+    "Desc": "The roll is Xd10+8, where X = The number of targets hit by this attack + 1."
+  },
+  "cataclysm": {
+    "nom": "Cataclysm",
+    "Level": "Wand 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "4d8+20",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-3",
+    "Desc": "Regardless of whether this move hits, the user loses 10 HP."
+  },
+  "corruption": {
+    "nom": "Corruption",
+    "Level": "Orb 5",
+    "Frequency": "Twice/EoT",
+    "Accuracy": "4",
+    "Roll": "2d8+5",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-5",
+    "Desc": "The foe is poisoned for 10 damage for one turn."
+  },
+  "trishot": {
+    "nom": "Tri Shot",
+    "Level": "Shortbow 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "1d8+9",
+    "Type": "Physical/Standard",
+    "Target": "One, Two or Three (3 hits)/Foe/Range-4",
+    "Desc": "This attack hits three times. Only the first hit gains your bonus attack. You may choose a different target for each shot, should you wish. If you land two hits on a target, they are slowed until the end of their next turn. This attack's damage is not affected by outside factors."
+  },
+  "furyrush": {
+    "nom": "Fury Rush",
+    "Level": "Axe 5",
+    "Frequency": "Once",
+    "Accuracy": "5",
+    "Roll": "3d8+13",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-2",
+    "Desc": "The user moves towards the target if possible, and becomes slowed for one turn."
+  },
+  "temptation": {
+    "nom": "Temptation",
+    "Level": "Spellbook 6",
+    "Frequency": "EoT",
+    "Accuracy": "4",
+    "Roll": "1d8+10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-6",
+    "Desc": "The foe is poisoned for 5 damage over two turns."
+  },
+  "fujita": {
+    "nom": "Fujita",
+    "Level": "Hammar 5",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "3d8+8",
+    "Type": "Physical/Standard",
+    "Target": "Range/Foes and Allies/Cone-1",
+    "Desc": "Pushes all targets hit by this attack 1 space."
+  },
+  "heavyshot": {
+    "nom": "Heavy Shot",
+    "Level": "Longbow 6",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "4",
+    "Roll": "3d10+17",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range-8",
+    "Desc": "The user is rooted until the end of their next turn"
+  },
+  "disorientation": {
+    "nom": "Disorientation",
+    "Level": "Stave 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+14",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "All targets hit by this attack are confused for two turns."
+  },
+  "arrowoftime": {
+    "nom": "Arrow of Time",
+    "Level": "Crossbow 5",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "4",
+    "Roll": "3d8+8",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Line-6",
+    "Desc": "Upon rolls of 14+, slows the target until the end of their next turn."
+  },
+  "standoff": {
+    "nom": "Standoff",
+    "Level": "Tonfa 6",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "Until the end of the Tonfa's next turn, the target cannot use Backstep. In addition, if the target stays within melee range of the Tonfa on their next turn, they take 3d10+10+ATK Damage."
+  },
+  "bloodlust": {
+    "nom": "Bloodlust",
+    "Level": "Claws 6",
+    "Frequency": "EoT",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "If your next attack hits a bleeding target, that attack gets +2 accuracy."
+  },
+  "adversary": {
+    "nom": "Adversary",
+    "Level": "Bo Staff 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d8+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target is challenged by the user this attack deals +15 extra damage."
+  },
+  "roulette": {
+    "nom": "Roulette",
+    "Level": "Tarot Cards 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Standard",
+    "Target": "One/Foes and Allies/Global",
+    "Desc": "A random player on the map is given a random status. Roll a 1d8 to determine this status. 1= 10 Bleed/2, 2 = 10 Poison/2, 3 = 10 Burn/2, 4 = Confusion/2, 5 = Seal, 6 = Root, 7 = Stun, 8 = Slow."
+  },
+  "blackhole": {
+    "nom": "Black Hole",
+    "Level": "Star Rod 6",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "3",
+    "Roll": "2d8+8",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-6",
+    "Desc": "Pulls the target to a space within the Star Rod's Melee range."
+  },
+  "accurateaim": {
+    "nom": "Accurate Aim",
+    "Level": "Rifter 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "If the user rolls 15+ on their accuracy roll, they gain +5 damage on their attack."
+  },
+  "interval": {
+    "nom": "Interval",
+    "Level": "Rifter 2",
+    "Frequency": "Twice",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self or Ally/Range-3",
+    "Desc": "If the user or ally's next attack is EoT, it can be used as if it was OaT."
+  },
+  "paradox": {
+    "nom": "Paradox",
+    "Level": "Rifter 4",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "Upon using this move, the user may use a Once/Twice move without expending a use on their turn. If the user is out of uses, they get one additional use. The user may not use Paradox in conjunction with Buff or Status move. The user takes 30% of the damage from the Paradox move as recoil."
+  },
+  "vortex": {
+    "nom": "Vortex",
+    "Level": "Rifter 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "Add 30% of the roll on the user's last attack against another player to their next attack. If you use Vortex in conjuction with a damage multipication move, such as Etruia, then the Vortex damage is not included in the multiplication. Vortex has 3 HP recoil for every target hit."
+  },
+  "wormhole": {
+    "nom": "Wormhole",
+    "Level": "Rifter 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Action/Full",
+    "Target": "One/Self/Global",
+    "Desc": "Choose any unoccupied space in range on the map and move to it."
+  },
+  "timedilation": {
+    "nom": "Time Dilation",
+    "Level": "Rifter 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "-",
+    "Type": "Re-Action/Interrupt",
+    "Target": "One/Foe/-",
+    "Desc": "The user may choose to use this move before a target attacks them. On a hit, the attacker takes half the damage dealt with their attack - on a roll of 20 the attacker takes the full damage. This attack bypasses the enemy's evasion."
+  },
+  "mist": {
+    "nom": "Mist",
+    "Level": "CryoKinesis 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Swift",
+    "Target": "Range/Foe/Burst-2",
+    "Desc": "Upon using this move, all foes that attack the user from within a burst 2 radius do 8 less damage on their attacks until the start of the user's next turn two turns from when this move was used."
+  },
+  "afterburn": {
+    "nom": "Afterburn",
+    "Level": "PyroKinetic 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "Add X*3 damage to your next attack, where X is the number of Fire Stacks the user has."
+  },
+  "tunneling": {
+    "nom": "Tunneling",
+    "Level": "Skirmisher 5",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "You may move through Stop blocks, Ice walls and broken tiles as if they were normal terrain, but you may not end your turn on any such tiles or attack through them (except for broken tiles)."
+  },
+  "camouflage": {
+    "nom": "Camouflage",
+    "Level": "Guardian 1",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "If the opponent rolls 17+ on their accuracy, their next attack (not the current) has -2 acc."
+  },
+  "cantata": {
+    "nom": "Cantata",
+    "Level": "Bard 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self or Ally/Global",
+    "Desc": "This move may be used if the user has 30% or less of their maximum HP. Raise the user's evasions by 3 for one turn, ending on the user's next turn."
+  },
+  "lovepower": {
+    "nom": "Cantata",
+    "Level": "Bard 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self or Ally/Global",
+    "Desc": "This move may be used if the target has 20% or less of their maximum HP. Raise the user's targets' evasions by 3 for one turn, ending on the user's next turn."
+  },
+  "foulplay": {
+    "nom": "Foul Play",
+    "Level": "Rifter 3",
+    "Frequency": "Twice",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "The user may choose to use either the target's ATK or MAG instead of the user's on their next attack. If there are multiple targets, you may use a target of your choice."
+  },
+  "ikkikasei": {
+    "nom": "Ikkikasei",
+    "Level": "Katana 3",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "If the user lost 40% of their max HP on a single move last round, they may use this move. This move gives +2 dice to the user's next attack."
+  },
+  "pinpoint": {
+    "nom": "Pinpoint",
+    "Level": "Rapier 3",
+    "Frequency": "Passive",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-/-",
+    "Target": "-/-/-",
+    "Desc": "If you avoided at least one attack last turn, you gain +2 accuracy on your turn."
+  },
+  "alloutblow": {
+    "nom": "All-out Blow",
+    "Level": "Gladius 4",
+    "Frequency": "Every other Turn",
+    "Accuracy": "5",
+    "Roll": "3d10+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If this attack misses, deal 15 damage to yourself."
+  },
+  "holdover": {
+    "nom": "Hold Over",
+    "Level": "Hammer 6",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+7",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "If the target uses an ability they didn't use use last turn, they take 1d10+Attack extra damage."
+  },
+  "gash": {
+    "nom": "Gash",
+    "Level": "Axe 6",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "4",
+    "Roll": "2d10+10",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This attack deals 10 bleed for one turn to the target if it connects. If it misses, the user has -2 evasion until the end of his next turn."
+  },
+  "serratedslice": {
+    "nom": "Serrated Slice",
+    "Level": "Polearm 6",
+    "Frequency": "E2T",
+    "Accuracy": "5",
+    "Roll": "3d10+5",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "This attack deals 10 bleed for one turn to the target if it connects."
+  },
+  "faith": {
+    "nom": "Faith",
+    "Level": "Spellbook 5",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "-",
+    "Roll": "1d6",
+    "Type": "Status/Swift",
+    "Target": "One/Self or Ally/Range 4",
+    "Desc": "Heal the amount rolled (do not add MAG) for three turns. This effect lasts for three rounds."
+  },
+  "torrentialtremor": {
+    "nom": "Torrential Tremor",
+    "Level": "Wand 5",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "Xd8+10",
+    "Type": "Standard/Magical",
+    "Target": "Range/Foe/Burst 1",
+    "Desc": "This move has X dice where X is the number of targets hit + 1."
+  },
+  "curse": {
+    "nom": "Curse",
+    "Level": "Stave 5",
+    "Frequency": "Twice",
+    "Accuracy": "4",
+    "Roll": "1d8+4",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "The target's OaT is EoT for one turn and their Twice moves become Once for the rest of the match."
+  },
+  "flamingarrow": {
+    "nom": "Flaming Arrow",
+    "Level": "Longbow 5",
+    "Frequency": "Every other Turn",
+    "Accuracy": "5",
+    "Roll": "2d10+3",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range 8",
+    "Desc": "The target is burned for 5 damage for 2 turns."
+  },
+  "magneticshot": {
+    "nom": "Magnetic Shot",
+    "Level": "Shortbow 3",
+    "Frequency": "Every other Turn",
+    "Accuracy": "0",
+    "Roll": "2d8+2",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range 4",
+    "Desc": "-"
+  },
+  "shadowarrow": {
+    "nom": "Shadow Arrow",
+    "Level": "Crossbow 4",
+    "Frequency": "Once",
+    "Accuracy": "3",
+    "Roll": "1d8+7",
+    "Type": "Physical/Standard",
+    "Target": "One/Foe/Range 6",
+    "Desc": "This move ignores stop blocks and ice walls in its range."
+  },
+  "block": {
+    "nom": "Block",
+    "Level": "Tonfa 7",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Re-Action/Interrupt",
+    "Target": "One/Self/-",
+    "Desc": "The user takes 50% damage from the attack that was interrupted."
+  },
+  "fiercegrip": {
+    "nom": "Fierce Grip",
+    "Level": "Claws 4",
+    "Frequency": "Every turn",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Status/Swift",
+    "Target": "One/Self/-",
+    "Desc": "If a target is bleeding, instead of them doing 5 less damage, the user deals +5 damage to them when attacking."
+  },
+  "defiance": {
+    "nom": "Defiance",
+    "Level": "Bo Staff 6",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "Buff/Swift",
+    "Target": "One/Self/-",
+    "Desc": "The user may double \"Challenged\" effect (+1 acc +5 dmg -> +2 acc +10 dmg) for the rest of the battle."
+  },
+  "prophecy": {
+    "nom": "Prophecy",
+    "Level": "Orb 6",
+    "Frequency": "Twice/Every other Turn",
+    "Accuracy": "5",
+    "Roll": "2d8+15",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range 7",
+    "Desc": "This attack hits on the start of the user's next turn. This attack ignores accuracy mods and the target's evasion."
+  },
+  "gamble": {
+    "nom": "Gamble",
+    "Level": "Tarot Cards 6",
+    "Frequency": "Twice",
+    "Accuracy": "4",
+    "Roll": "3d8",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range 3",
+    "Desc": "Roll d7. 1=Add your other stat, 2=Add the target's ATK, 3=Add the target's MAG, 4=Subtract your other stat, 5=Subtract the target's ATK, 6=Subtract the target's ATK and MAG, 7=Add your other stat and the target's ATK and MAG."
+  },
+  "singularity": {
+    "nom": "Singularity",
+    "Level": "Star Rod 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "6d8+5",
+    "Type": "Magical/Full",
+    "Target": "One/Foe/Range 4",
+    "Desc": "Only affects players that have been affected by a Black Hole from the user last turn."
+  },
+  "whiteflag": {
+    "nom": "Surrender",
+    "Level": "Cowardice 1",
+    "Frequency": "Once",
+    "Accuracy": "-",
+    "Roll": "-",
+    "Type": "-",
+    "Target": "All/All/Global",
+    "Desc": "A user may forfeit if they are the only member of their team left and the opposing team has at least two or more players in it. Furthermore, the forfeit must be approved by a voice or above. This is only available in team battles (except Juggernaut). The opposing team gets +1 XP if you do this."
+  },
+  "winterstorm": {
+    "nom": "Winter Storm",
+    "Level": "CryoKinesis 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "2d10",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Range-5",
+    "Desc": "On accuracy rolls of 10+ the target is sealed. On 18+, the target is rooted and empty tiles in burst range turns into sticky tiles. This attack only gains half of the user's Magic bonus, rounded down."
+  },
+  "wormholeeaster": {
+    "nom": "Wormhole Easter",
+    "Level": "a",
+    "Frequency": "a",
+    "Accuracy": "a",
+    "Roll": "a",
+    "Type": "a",
+    "Target": "",
+    "Desc": "a,a,a,,aa,a"
+  },
+  "mindshatter": {
+    "nom": "Mind Shatter",
+    "Level": "Stave 7",
+    "Frequency": "Once",
+    "Accuracy": "4",
+    "Roll": "3d8+14",
+    "Type": "Magical/Standard",
+    "Target": "Range/Foe/Burst-1",
+    "Desc": "All targets hit by this attack are confused for two turns."
+  },
+  "cursedfate": {
+    "nom": "Cursed Fate",
+    "Level": "Stave 5",
+    "Frequency": "Twice",
+    "Accuracy": "4",
+    "Roll": "1d8+4",
+    "Type": "Magical/Standard",
+    "Target": "One/Foe/Melee",
+    "Desc": "The target's OaT is EoT for one turn and their Twice moves become Once for the rest of the match."
+  }
+}

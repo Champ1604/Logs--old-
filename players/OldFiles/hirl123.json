@@ -1,0 +1,31 @@
+{
+  "nom": "Hirl123",
+  "signupDate": "2016-08-02T14:28:50.428Z",
+  "curClass": "Skirmisher",
+  "curBranch": "Archer",
+  "curWeap": "Crossbow",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 5,
+    "skirmisher": 5,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 5,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 23,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

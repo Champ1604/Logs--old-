@@ -1,0 +1,31 @@
+{
+  "nom": "pokemonplayer556",
+  "signupDate": "2016-08-12T16:02:06.093Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Heavy",
+  "curWeap": "Hammer",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 15,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

@@ -1,0 +1,31 @@
+{
+  "nom": "Wonto",
+  "signupDate": "2016-08-03T09:52:29.797Z",
+  "curClass": "Bard",
+  "curBranch": "Dueler",
+  "curWeap": "Rapier",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 4,
+    "guardian": 5,
+    "bard": 4
+  },
+  "branchLvl": {
+    "dueler": 4,
+    "heavy": 1,
+    "archer": 5,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 601544,
+  "infraction": {
+    "gameban": true,
+    "gbReason": "because",
+    "gbLength": "iuno",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

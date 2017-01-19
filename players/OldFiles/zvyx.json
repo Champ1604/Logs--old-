@@ -1,0 +1,31 @@
+{
+  "nom": "Zvyx",
+  "signupDate": "2016-08-02T14:41:56.714Z",
+  "curClass": "Guardian",
+  "curBranch": "Sorcerer",
+  "curWeap": "Wand",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 3,
+    "guardian": 3,
+    "bard": 5
+  },
+  "branchLvl": {
+    "dueler": 3,
+    "heavy": 5,
+    "archer": 3,
+    "sorcerer": 2,
+    "fighter": 1
+  },
+  "xp": 4,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

@@ -1,0 +1,31 @@
+{
+  "nom": "kazz of wings",
+  "signupDate": "2016-08-03T21:11:06.307Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Sorcerer",
+  "curWeap": "Wand",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 2,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 2,
+    "fighter": 1
+  },
+  "xp": 22,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

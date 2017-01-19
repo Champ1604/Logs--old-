@@ -1,0 +1,31 @@
+{
+  "nom": "SkirmBow",
+  "signupDate": "2016-08-16T18:26:46.005Z",
+  "curClass": "Skirmisher",
+  "curBranch": "Archer",
+  "curWeap": "Shortbow",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 3,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 3,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 28,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

@@ -1,0 +1,31 @@
+{
+  "nom": "Tikitik",
+  "signupDate": "2016-08-02T14:40:16.510Z",
+  "curClass": "CyroKinesis",
+  "curBranch": "Archer",
+  "curWeap": "Shortbow",
+  "classLvl": {
+    "cyrokinesis": 5,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 5,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 8,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

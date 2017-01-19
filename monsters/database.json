@@ -1,0 +1,38 @@
+{
+	"pve": {
+		"0": {
+			"nom": ["Gatekeeper","Gate"],
+			"map": "gate",
+			"positions": [["E",4],["A",0]],
+			"players": [["J",7], ["I",8], ["H",9], ["I",9], ["J",8]]
+		},
+		"1": {
+			"nom": ["C.O.R.E.", "Guardian1", "Guardian2", "Seraphknight1", "Seraphknight2"],
+			"map": "fortress",
+			"positions": [["E",4],["F",4],["F",5],["F",2],["F",7],["C",5]],
+			"players": [["A",0], ["A",9], ["A",4], ["J",0], ["J",9]]
+		}
+	},
+	"pveffa": {
+		"0": {
+			"nom": ["Heaven's Lion"],
+			"map": "pvp",
+			"positions": [["J",9]],
+			"players": [["A",9], ["J",0], ["D",3], ["F",1], ["B",5], ["B",6], ["C",4], ["E",2], ["G",1], ["B",7], ["C",5], ["F",2], ["H",1], ["H",0], ["F",0], ["D",1], ["B",3], ["A",5], ["A",7]]
+		},
+		"1": {
+			"nom": ["Corrupted Soul"],
+			"map": "pvp",
+			"positions": [["J",9]],
+			"players": [["A",9], ["J",0], ["D",3], ["F",1], ["B",5], ["B",6], ["C",4], ["E",2], ["G",1], ["B",7], ["C",5], ["F",2], ["H",1], ["H",0], ["F",0], ["D",1], ["B",3], ["A",5], ["A",7]]
+		}
+	},
+	"1v1": {
+		"0": {
+			"nom": ["Devil's Dragon 1"],
+			"map": "1v1",
+			"positions": [["J",9]],
+			"players": [["A",0]]
+		}
+	}
+}

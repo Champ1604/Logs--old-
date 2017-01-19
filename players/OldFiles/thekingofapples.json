@@ -1,0 +1,27 @@
+{
+  "nom": "TheKingofApples",
+  "signupDate": "2016-08-02T14:39:47.379Z",
+  "curClass": "Guardian",
+  "curBranch": "Heavy",
+  "curWeap": "Hammer",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 3,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 3,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 33,
+  "infraction": {
+    "gameban": "",
+    "hostban": ""
+  },
+  "battle": false
+}

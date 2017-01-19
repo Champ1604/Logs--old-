@@ -1,0 +1,31 @@
+{
+  "nom": "Fluffiator",
+  "signupDate": "2016-08-06T17:21:29.476Z",
+  "curClass": "CyroKinesis",
+  "curBranch": "Dueler",
+  "curWeap": "Gladius",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 0,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

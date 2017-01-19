@@ -1,0 +1,31 @@
+{
+  "nom": "rt154",
+  "signupDate": "2016-08-02T14:37:30.283Z",
+  "curClass": "Guardian",
+  "curBranch": "Archer",
+  "curWeap": "Crossbow",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 4,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 5,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 5,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

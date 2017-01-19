@@ -1,0 +1,38 @@
+{
+    "arena": {
+        "players": [["A",0], ["J",9]]
+    
+},
+    "colosseum": {
+        "players": [["A",0], ["J",9]]
+},
+    "ruins": {
+        "players": [["A",0], ["J",9]]
+},
+    "collapsedtemple": {
+        "players": [["A",0], ["J",9]]
+},
+    "swamp": {
+        "players": [["A",0], ["J",9]]
+},
+    "skirmbowshaven": {
+        "players": [["A",0], ["J",9]]
+},
+    "noturtling": {
+        "players": [["A",3], ["J",6]]
+},
+    "quadrants": {
+        "players": [["A",0], ["J",9]]
+},
+    "moshpit": {
+        "players": [["A",0], ["J",9]]
+},
+    "glaciers": {
+        "players": [["A",1], ["J",8]]
+},
+    "smiley": {
+        "players": [["A",0], ["J",9]]
+},
+    "h": {
+        "players": [["A",0], ["J",9]]
+}

@@ -1,0 +1,31 @@
+{
+  "nom": "Quilladin90000",
+  "signupDate": "2016-08-10T04:59:02.819Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Sorcerer",
+  "curWeap": "Spellbook",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 2,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 2,
+    "fighter": 1
+  },
+  "xp": 8,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

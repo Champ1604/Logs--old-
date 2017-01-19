@@ -1,0 +1,2976 @@
+{
+  "list": {
+    "11aafortbotaa11": {
+      "nom": "11AAFORTBOTAA11",
+      "signupDate": "2016-08-03T10:16:09.075Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 3,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 3,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 22,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "afaithfulchamp": {
+      "nom": "A Faithful Champ",
+      "signupDate": "2016-08-07T18:09:52.002Z",
+      "curClass": "Guardian",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 2,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 3,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 13,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "alfa610": {
+      "nom": "Alfa610",
+      "signupDate": "2016-08-02T20:35:28.553Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 19,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "arcaneelpis": {
+      "nom": "Arcane Elpis",
+      "signupDate": "2016-08-22T18:03:25.909Z",
+      "curClass": "Bard",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 9,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "aria45": {
+      "nom": "Aria 4.5",
+      "signupDate": "2016-08-05T03:31:39.757Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Dueler",
+      "curWeap": "Rapier",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 4,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "aureateaura": {
+      "nom": "AureateAura",
+      "signupDate": "2016-08-09T04:06:53.330Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 18,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "awildtroll": {
+      "nom": "A Wild Troll",
+      "signupDate": "2016-08-15T12:50:41.654Z",
+      "curClass": "Guardian",
+      "curBranch": "Fighter",
+      "curWeap": "Bo Staff",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 2,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 2
+      },
+      "xp": 9,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "azurestriker8990": {
+      "nom": "AzureStriker8990",
+      "signupDate": "2016-08-09T22:25:01.415Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 4,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 3,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 3
+      },
+      "xp": 6,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "boygamerizzy": {
+      "nom": "BoyGamerIzzy",
+      "signupDate": "2016-08-09T11:16:00.323Z",
+      "curClass": "Bard",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 2,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 12,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "brierton": {
+      "nom": "Brierton",
+      "signupDate": "2016-08-08T18:16:42.727Z",
+      "curClass": "Guardian",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "brixxy": {
+      "nom": "Brixxy",
+      "signupDate": "2016-08-13T05:29:33.811Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "btdubs5140": {
+      "nom": "btdubs5140",
+      "signupDate": "2016-08-22T18:33:21.304Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "chernabog": {
+      "nom": "Chernabog",
+      "signupDate": "2016-08-07T22:00:01.937Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Fighter",
+      "curWeap": "Claws",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 4,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 3,
+        "sorcerer": 1,
+        "fighter": 4
+      },
+      "xp": 21,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "chesnaught90000": {
+      "nom": "chesnaught90000",
+      "signupDate": "2016-08-08T23:49:27.913Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Fighter",
+      "curWeap": "Tonfa",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 22,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "conor3197": {
+      "nom": "conor3197",
+      "signupDate": "2016-08-03T18:10:28.003Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 11,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "cunes": {
+      "nom": "Cunes",
+      "signupDate": "2016-08-02T14:26:03.537Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Rapier",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 5,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 4,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 5,
+        "fighter": 1
+      },
+      "xp": 3,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "davjosnivy": {
+      "nom": "Davjo (Snivy)",
+      "signupDate": "2016-08-05T12:52:14.572Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 2,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "damagicgamer": {
+      "nom": "DaMagicGamer",
+      "signupDate": "2016-08-06T01:26:56.744Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 6,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "dbash56": {
+      "nom": "Dbash56",
+      "signupDate": "2016-08-09T20:47:12.179Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "drscolipede": {
+      "nom": "Dr. Scolipede",
+      "signupDate": "2016-08-20T01:27:10.278Z",
+      "curClass": "Guardian",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 2,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 7,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "enderrift": {
+      "nom": "EnderRift",
+      "signupDate": "2016-08-06T03:38:32.353Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 4,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "fluffiator": {
+      "nom": "Fluffiator",
+      "signupDate": "2016-08-06T17:21:29.476Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Dueler",
+      "curWeap": "Gladius",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "formerhope": {
+      "nom": "Former Hope",
+      "signupDate": "2016-08-02T14:28:36.437Z",
+      "curClass": "Guardian",
+      "curBranch": "Fighter",
+      "curWeap": "Tonfa",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 5,
+        "bard": 3
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 5
+      },
+      "xp": 1046,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "fpkfor": {
+      "nom": "Fpkfor",
+      "signupDate": "2016-08-02T14:28:23.596Z",
+      "curClass": "Bard",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 16,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "fuzzytales": {
+      "nom": "Fuzzytales",
+      "signupDate": "2016-08-04T16:16:02.772Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Rapier",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "galom": {
+      "nom": "Galom",
+      "signupDate": "2016-08-02T14:27:43.883Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 3,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 19,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "gamerguy456": {
+      "nom": "gamerguy456",
+      "signupDate": "2016-08-20T03:36:02.581Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 5,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "griefy": {
+      "nom": "Griefy",
+      "signupDate": "2016-08-15T23:18:55.872Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 49,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "harrleyquinn": {
+      "nom": "Harrley Quinn",
+      "signupDate": "2016-08-10T10:39:50.758Z",
+      "curClass": "Bard",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": true,
+        "gbReason": "lucy alt",
+        "gbLength": "later",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "hawkie": {
+      "nom": "Hawkie",
+      "signupDate": "2016-08-05T12:57:47.056Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 3,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 3,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 4,
+        "fighter": 1
+      },
+      "xp": 13,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "henka": {
+      "nom": "henka",
+      "signupDate": "2016-08-11T01:20:33.203Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 5,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 5
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "hiems": {
+      "nom": "Hiems",
+      "signupDate": "2016-08-07T12:20:01.879Z",
+      "curClass": "Guardian",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 22,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "hirl123": {
+      "nom": "Hirl123",
+      "signupDate": "2016-08-02T14:28:50.428Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 5,
+        "skirmisher": 5,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 23,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "jaxy20": {
+      "nom": "jaxy20",
+      "signupDate": "2016-08-08T04:42:48.960Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "jjayyfeather": {
+      "nom": "jjayyfeather",
+      "signupDate": "2016-08-04T05:46:38.759Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 3,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 9,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "kazzofwings": {
+      "nom": "kazz of wings",
+      "signupDate": "2016-08-03T21:11:06.307Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 22,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "kevikevkev": {
+      "nom": "Kevikevkev",
+      "signupDate": "2016-08-02T14:29:07.645Z",
+      "curClass": "Bard",
+      "curBranch": "Dueler",
+      "curWeap": "Gladius",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 5
+      },
+      "branchLvl": {
+        "dueler": 4,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 24,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "kilan": {
+      "nom": "Kilan",
+      "signupDate": "2016-08-02T14:29:24.780Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Rapier",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 3,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 3,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 19,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "krissivikingur": {
+      "nom": "KrissiVikingur",
+      "signupDate": "2016-08-12T22:26:04.562Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 6,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "kristhenoob": {
+      "nom": "Kris The Noob",
+      "signupDate": "2016-08-07T21:41:08.982Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Gladius",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 2,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 12,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "lanternsnake": {
+      "nom": "Lantern Snake",
+      "signupDate": "2016-08-05T22:37:27.438Z",
+      "curClass": "Bard",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 14,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "leafyissheercold": {
+      "nom": "LeafyIsSheerCold",
+      "signupDate": "2016-08-07T14:59:09.304Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 10,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "lightningvikavolt": {
+      "nom": "Lightning Vikavolt",
+      "signupDate": "2016-08-02T14:29:39.476Z",
+      "curClass": "Bard",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 32,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "linkyd0": {
+      "nom": "LinkyD.0",
+      "signupDate": "2016-08-02T14:30:15.628Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Gladius",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 2,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 23,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "manazran": {
+      "nom": "Manazran",
+      "signupDate": "2016-08-02T14:31:16.324Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "microwavable": {
+      "nom": "microwavable",
+      "signupDate": "2016-08-02T14:31:41.821Z",
+      "curClass": "Guardian",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 4,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 4,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 4,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 28,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "mmm": {
+      "nom": "MMM",
+      "signupDate": "2016-08-02T14:31:58.395Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 3,
+        "skirmisher": 5,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 2,
+        "archer": 5,
+        "sorcerer": 3,
+        "fighter": 1
+      },
+      "xp": 12,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "mrlegal": {
+      "nom": "MrLegal",
+      "signupDate": "2016-08-02T14:32:34.342Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 5,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 5,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 112,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "mrminon": {
+      "nom": "Mr minon",
+      "signupDate": "2016-08-08T23:26:52.351Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Heavy",
+      "curWeap": "Polearm",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "muco712138": {
+      "nom": "Muco712138",
+      "signupDate": "2016-08-22T17:10:24.769Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "naughtynadia": {
+      "nom": "NaughtyNadia",
+      "signupDate": "2016-08-13T22:20:52.484Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 2,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 2,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 2,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "ninjahope": {
+      "nom": "NinjaHope",
+      "signupDate": "2016-08-07T14:16:36.472Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 16,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "ninjalubiplacki": {
+      "nom": "NinjaLubiPlacki",
+      "signupDate": "2016-08-03T18:10:49.664Z",
+      "curClass": "Guardian",
+      "curBranch": "Fighter",
+      "curWeap": "Claws",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 2,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 3,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 9,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "notscottgun": {
+      "nom": "Not Scott Gun",
+      "signupDate": "2016-08-05T01:19:22.775Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Fighter",
+      "curWeap": "Claws",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 10,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "ooraloo": {
+      "nom": "Ooraloo",
+      "signupDate": "2016-08-02T14:33:16.032Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 17,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "oshawott1124": {
+      "nom": "oshawott1124",
+      "signupDate": "2016-08-08T23:43:54.414Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 3,
+        "fighter": 1
+      },
+      "xp": 19,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "painteroshawott": {
+      "nom": "Painter Oshawott",
+      "signupDate": "2016-08-02T14:35:52.687Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Fighter",
+      "curWeap": "Bo Staff",
+      "classLvl": {
+        "cyrokinesis": 2,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 2
+      },
+      "xp": 25,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "pg805": {
+      "nom": "pg805",
+      "signupDate": "2016-08-02T14:36:16.226Z",
+      "curClass": "Guardian",
+      "curBranch": "Fighter",
+      "curWeap": "Tonfa",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 2
+      },
+      "xp": 16,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "pokemonplayer556": {
+      "nom": "pokemonplayer556",
+      "signupDate": "2016-08-12T16:02:06.093Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 15,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "pokemonvortex": {
+      "nom": "pokemonvortex",
+      "signupDate": "2016-08-02T14:36:37.653Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 21,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "ps4star": {
+      "nom": "ps4star",
+      "signupDate": "2016-08-03T06:35:39.858Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 58,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "pyrastyx": {
+      "nom": "pyrastyx",
+      "signupDate": "2016-08-03T22:31:09.541Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Fighter",
+      "curWeap": "Tonfa",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 3,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 3,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 3
+      },
+      "xp": 33,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "quilladin90000": {
+      "nom": "Quilladin90000",
+      "signupDate": "2016-08-10T04:59:02.819Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "rebeccatogekiss": {
+      "nom": "Rebecca (Togekiss)",
+      "signupDate": "2016-08-02T14:37:05.717Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 14,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "redninjapuffle": {
+      "nom": "Redninjapuffle",
+      "signupDate": "2016-08-04T20:56:05.572Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "rt154": {
+      "nom": "rt154",
+      "signupDate": "2016-08-02T14:37:30.283Z",
+      "curClass": "Guardian",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 4,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 5,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "sdswrath": {
+      "nom": "SDSWrath",
+      "signupDate": "2016-08-04T10:24:43.588Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "seeto": {
+      "nom": "Seeto",
+      "signupDate": "2016-08-07T11:54:39.037Z",
+      "curClass": "Bard",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "seviper120": {
+      "nom": "seviper120",
+      "signupDate": "2016-08-09T10:19:26.784Z",
+      "curClass": "Guardian",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 7,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "shadow11615": {
+      "nom": "shadow11615",
+      "signupDate": "2016-08-03T21:02:29.353Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 12,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "sharpshooterq": {
+      "nom": "SharpshooterQ",
+      "signupDate": "2016-08-02T14:37:52.646Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 4,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 4,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 5,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "skirmbow": {
+      "nom": "SkirmBow",
+      "signupDate": "2016-08-16T18:26:46.005Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 3,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 3,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 28,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "somerandomplebb": {
+      "nom": "Some Random Plebb",
+      "signupDate": "2016-08-08T18:40:38.897Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "soundounce": {
+      "nom": "Soundounce",
+      "signupDate": "2016-08-07T23:35:21.719Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 2,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 14,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "summerholiday": {
+      "nom": "Summer Holiday",
+      "signupDate": "2016-08-02T16:41:35.770Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 2,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 36,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "swampertsolly": {
+      "nom": "SwampertSolly",
+      "signupDate": "2016-08-02T14:39:00.354Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 2,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 21,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "tada": {
+      "nom": "Tada",
+      "signupDate": "2016-08-02T14:39:23.837Z",
+      "curClass": "Bard",
+      "curBranch": "Fighter",
+      "curWeap": "Bo Staff",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 4
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 4,
+        "sorcerer": 1,
+        "fighter": 2
+      },
+      "xp": 11,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "taistelu": {
+      "nom": "Taistelu",
+      "signupDate": "2016-08-02T14:24:53.016Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 5,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 3,
+        "heavy": 1,
+        "archer": 4,
+        "sorcerer": 1,
+        "fighter": 5
+      },
+      "xp": 22,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "thekingofapples": {
+      "nom": "TheKingofApples",
+      "signupDate": "2016-08-02T14:39:47.379Z",
+      "curClass": "Guardian",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 3,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 3,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 33,
+      "infraction": {
+        "gameban": "",
+        "hostban": ""
+      },
+      "battle": false
+    },
+    "thekingofevil": {
+      "nom": "The King Of Evil",
+      "signupDate": "2016-08-03T17:36:18.317Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Fighter",
+      "curWeap": "Claws",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "tikitik": {
+      "nom": "Tikitik",
+      "signupDate": "2016-08-02T14:40:16.510Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Shortbow",
+      "classLvl": {
+        "cyrokinesis": 5,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "unexpectedjazz": {
+      "nom": "unexpected jazz",
+      "signupDate": "2016-08-04T11:44:14.135Z",
+      "curClass": "Guardian",
+      "curBranch": "Heavy",
+      "curWeap": "Polearm",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 4,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "vaq": {
+      "nom": "vaq",
+      "signupDate": "2016-08-10T02:31:36.960Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Fighter",
+      "curWeap": "Tonfa",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "verndrago": {
+      "nom": "Vern Drago",
+      "signupDate": "2016-08-08T11:38:08.695Z",
+      "curClass": "Guardian",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "vulcaron": {
+      "nom": "vulcaron",
+      "signupDate": "2016-08-05T04:47:26.821Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Dueler",
+      "curWeap": "Rapier",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 2,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 8,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "warriorhydreigon": {
+      "nom": "Warrior(Hydreigon)",
+      "signupDate": "2016-08-02T14:40:54.969Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Crossbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 12,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "wizardking12": {
+      "nom": "WizardKing12",
+      "signupDate": "2016-08-19T16:20:43.376Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 2,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 16,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "wonto": {
+      "nom": "Wonto",
+      "signupDate": "2016-08-03T09:52:29.797Z",
+      "curClass": "Bard",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 4,
+        "guardian": 5,
+        "bard": 4
+      },
+      "branchLvl": {
+        "dueler": 4,
+        "heavy": 1,
+        "archer": 5,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 601544,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "xotherworld": {
+      "nom": "xOtherWorld",
+      "signupDate": "2016-08-17T20:36:49.981Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "xxdevontexx": {
+      "nom": "xxdevontexx",
+      "signupDate": "2016-08-16T17:00:09.946Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Dueler",
+      "curWeap": "Katana",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "zeep": {
+      "nom": "Zeep",
+      "signupDate": "2016-08-02T14:41:05.439Z",
+      "curClass": "CyroKinesis",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 2,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 35,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "zetake": {
+      "nom": "ZetaKE",
+      "signupDate": "2016-08-03T06:15:02.414Z",
+      "curClass": "Skirmisher",
+      "curBranch": "Archer",
+      "curWeap": "Longbow",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 9,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "zon770": {
+      "nom": "zon770",
+      "signupDate": "2016-08-16T20:03:55.335Z",
+      "curClass": "Bard",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "zvyx": {
+      "nom": "Zvyx",
+      "signupDate": "2016-08-02T14:41:56.714Z",
+      "curClass": "Guardian",
+      "curBranch": "Sorcerer",
+      "curWeap": "Wand",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 3,
+        "guardian": 3,
+        "bard": 5
+      },
+      "branchLvl": {
+        "dueler": 3,
+        "heavy": 5,
+        "archer": 3,
+        "sorcerer": 2,
+        "fighter": 1
+      },
+      "xp": 4,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "nightingalegaze": {
+      "nom": "Nightingale Gaze",
+      "signupDate": "2016-08-23T06:22:50.561Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Sorcerer",
+      "curWeap": "Spellbook",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    },
+    "lighthaze": {
+      "nom": "Light HaZe",
+      "signupDate": "2016-08-23T08:44:17.166Z",
+      "curClass": "PyroKinetic",
+      "curBranch": "Heavy",
+      "curWeap": "Hammer",
+      "classLvl": {
+        "cyrokinesis": 1,
+        "pyrokinetic": 1,
+        "skirmisher": 1,
+        "guardian": 1,
+        "bard": 1
+      },
+      "branchLvl": {
+        "dueler": 1,
+        "heavy": 1,
+        "archer": 1,
+        "sorcerer": 1,
+        "fighter": 1
+      },
+      "xp": 0,
+      "infraction": {
+        "gameban": false,
+        "gbReason": "",
+        "gbLength": "",
+        "hostban": false,
+        "hbReason": "",
+        "hbLength": ""
+      },
+      "battle": false
+    }
+  }
+}

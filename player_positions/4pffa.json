@@ -1,0 +1,41 @@
+{
+    "arena": {
+        "players": [["A", 5], ["F", 9], ["J", 4], ["E", 0]]
+    },
+    "colosseum":{
+        "players": [["A", 4], ["E", 9], ["J", 5], ["F", 0]]
+    },
+    "ruins": {
+        "players": [["A", 0], ["J", 0], ["J", 9], ["A", 9]]
+    },
+    "collapsedtemple":{
+        "players": [["A", 4], ["E", 9], ["J", 5], ["F", 0]]
+    },
+    "swamp": {
+        "players": [["A", 5], ["F", 9], ["J", 4], ["E", 0]]
+    },
+    "skirmbowshaven": {
+        "players": [["A", 5], ["F", 9], ["J", 4], ["E", 0]]
+    },
+    "noturtling":{
+        "players": [["A", 5], ["F", 9], ["J", 4], ["E", 0]]
+    },
+    "quadrants": {
+        "players": [["A", 0], ["J", 0], ["J", 9], ["A", 9]]
+    },
+    "moshpit": {
+        "players": [["A", 5], ["F", 9], ["J", 4], ["E", 0]]
+    },
+    "hidenseek": {
+        "players": [["A", 0], ["J", 0], ["J", 9], ["A", 9]]
+    },
+    "glaciers": {
+        "players": [["B", 1], ["I", 1], ["B", 8], ["I", 8]]
+    },
+    "smiley": {
+        "players": [["A", 0], ["J", 0], ["J", 9], ["A", 9]]
+    },
+    "h": {
+        "players": [["A", 0], ["J", 0], ["J", 9], ["A", 9]]
+    },
+  ]

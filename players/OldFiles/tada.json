@@ -1,0 +1,31 @@
+{
+  "nom": "Tada",
+  "signupDate": "2016-08-02T14:39:23.837Z",
+  "curClass": "Bard",
+  "curBranch": "Fighter",
+  "curWeap": "Bo Staff",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 4
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 4,
+    "sorcerer": 1,
+    "fighter": 2
+  },
+  "xp": 11,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

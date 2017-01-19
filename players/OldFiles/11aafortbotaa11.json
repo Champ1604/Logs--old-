@@ -1,0 +1,31 @@
+{
+  "nom": "11AAFORTBOTAA11",
+  "signupDate": "2016-08-03T10:16:09.075Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Heavy",
+  "curWeap": "Hammer",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 3,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 3,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 22,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

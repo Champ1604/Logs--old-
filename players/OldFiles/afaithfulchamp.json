@@ -1,0 +1,31 @@
+{
+  "nom": "A Faithful Champ",
+  "signupDate": "2016-08-07T18:09:52.002Z",
+  "curClass": "Guardian",
+  "curBranch": "Heavy",
+  "curWeap": "Hammer",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 2,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 3,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 13,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

@@ -1,0 +1,31 @@
+{
+  "nom": "Hawkie",
+  "signupDate": "2016-08-05T12:57:47.056Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Sorcerer",
+  "curWeap": "Wand",
+  "classLvl": {
+    "cyrokinesis": 3,
+    "pyrokinetic": 2,
+    "skirmisher": 1,
+    "guardian": 3,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 4,
+    "fighter": 1
+  },
+  "xp": 13,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

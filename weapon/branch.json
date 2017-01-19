@@ -1,0 +1,9 @@
+{
+	"dueler": ["Dueler","Katana","Rapier","Gladius"],
+	"heavy": ["Heavy","Hammer","Axe","Polearm"],
+	"archer": ["Archer","Longbow","Shortbow","Crossbow"],
+	"sorcerer": ["Sorcerer","Spellbook","Wand","Stave"],
+	"fighter": ["Fighter","Tonfa","Claws","Bo Staff"],
+	"clairvoyant": ["Clairvoyant","Orb","Tarot Cards","Star Rod"],
+	"alert": ["Alert", "Wall"]
+}

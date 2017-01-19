@@ -1,0 +1,31 @@
+{
+  "nom": "Alfa610",
+  "signupDate": "2016-08-02T20:35:28.553Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Sorcerer",
+  "curWeap": "Wand",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 19,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

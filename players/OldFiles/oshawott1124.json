@@ -1,0 +1,31 @@
+{
+  "nom": "oshawott1124",
+  "signupDate": "2016-08-08T23:43:54.414Z",
+  "curClass": "PyroKinetic",
+  "curBranch": "Sorcerer",
+  "curWeap": "Wand",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 2,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 3,
+    "fighter": 1
+  },
+  "xp": 19,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}

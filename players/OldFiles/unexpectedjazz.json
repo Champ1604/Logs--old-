@@ -1,0 +1,31 @@
+{
+  "nom": "unexpected jazz",
+  "signupDate": "2016-08-04T11:44:14.135Z",
+  "curClass": "Guardian",
+  "curBranch": "Heavy",
+  "curWeap": "Polearm",
+  "classLvl": {
+    "cyrokinesis": 1,
+    "pyrokinetic": 1,
+    "skirmisher": 1,
+    "guardian": 1,
+    "bard": 1
+  },
+  "branchLvl": {
+    "dueler": 1,
+    "heavy": 1,
+    "archer": 1,
+    "sorcerer": 1,
+    "fighter": 1
+  },
+  "xp": 4,
+  "infraction": {
+    "gameban": false,
+    "gbReason": "",
+    "gbLength": "",
+    "hostban": false,
+    "hbReason": "",
+    "hbLength": ""
+  },
+  "battle": false
+}
