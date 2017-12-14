@@ -18,7 +18,7 @@ exports.serverid = 'showdown';
 // The nick and password to log in with
 // If no password is required, leave pass empty
 exports.nick = 'Ice Kyubs';
-exports.pass = 'rainYAUtumnleafdance139';
+exports.pass = '';
 
 // The rooms that should be joined.
 // Joining Smogon's Showdown's Lobby is not allowed.
